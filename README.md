@@ -33,6 +33,3 @@ python quiz_app.ipynb
 ## Author
 
 This quiz application was created by Muhammad Yousaf. For any inquiries, please contact [yousafsahiwal3@gmail.com](mailto:yousafsahiwal3@gmail.com).
-```
-
-
